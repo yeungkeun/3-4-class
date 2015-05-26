@@ -7,9 +7,9 @@
 ##장영근
 ###김성찬
 **김혜림**
-_글씨 굴게_
 ~~글씨 없애기~~
 __*동그라미
 --1로마숫자
 [i'm an inline-style link](http://www.google.com)
-
+[i'm an inlime-style link with title](http://www.google.com "Google's Hompage")
+_기울기_
